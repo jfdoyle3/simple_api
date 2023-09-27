@@ -1,8 +1,3 @@
-# Starter Repository Template
+# Simple API web server
 
-This Repository has a customized gitignore file
-ignores:
-VS CODE, Visual Studio, Eclipse IDE, Intellij IDEA, Python,
-Gradle, Maven.
-
-- added Visual Studio in gitignore 1/31/2023
+This is a simple REST server that is used for testing in coding projects that uses API.
